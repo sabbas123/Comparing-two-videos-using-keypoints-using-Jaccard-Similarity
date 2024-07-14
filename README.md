@@ -1,2 +1,2 @@
-# Comparing-two-videos-using-keypoints-using-Jaccard-Similarity
-Comparing two videos using keypoints &amp; using Jaccard Similarity
+# Comparing video pairs of two signers using keypoints & using Jaccard Similarity
+# Comparing glosses of video pair and all videos of both signers.
